@@ -12,9 +12,9 @@
 -------------------------------------------------------
 
 #### :gem: Tech Stack:
-
-![JSS logo]
-
+<img src="jss.svg" alt="jss logo" width=100px /> <img src="html-5.svg" alt="html logo" width=100px /> <img src="css-3.svg" alt="css logo" width=100px />  
+<img src="react.svg" alt="react logo" width=100px /> <img src="redux.svg" alt="redux logo" width=100px /> <img src="redux-saga.svg" alt="redux-saga logo" width=100px />  
+<img src="github-icon.svg" alt="github logo" width=100px /> <img src="markdown.svg" alt="markdown logo" width=100px /> <img src="visual-studio-code.svg" alt="vs code logo" width=100px />  
 <!--
 **lukaszkrzeminski/lukaszkrzeminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
