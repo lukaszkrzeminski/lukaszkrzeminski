@@ -1,3 +1,5 @@
+<img src="background.jpg" alt="background image" width=100% height=auto />  
+
 ### 👋 Hi there! My name is Łukasz
 
 #### I'm an aspiring Frontend Developer ⚛️ and also a Homebrewing enthusiast 🍺
