@@ -1,4 +1,4 @@
-<img src="background.jpg" alt="background image" width=100% height=auto />  
+<img src="images/background.jpg" alt="background image" width=100% height=auto />  
 
 ### 👋 Hi there! My name is Łukasz
 
@@ -14,9 +14,9 @@
 -------------------------------------------------------
 
 #### :gem: Tech Stack:
-<img src="jss.svg" alt="jss logo" width=100px /> <img src="html-5.svg" alt="html logo" width=100px /> <img src="css-3.svg" alt="css logo" width=100px />  
-<img src="react.svg" alt="react logo" width=100px /> <img src="redux.svg" alt="redux logo" width=100px /> <img src="redux-saga.svg" alt="redux-saga logo" width=100px />  
-<img src="github-icon.svg" alt="github logo" width=100px /> <img src="markdown.svg" alt="markdown logo" width=100px /> <img src="visual-studio-code.svg" alt="vs code logo" width=100px />  
+<img src="images/jss.svg" alt="jss logo" width=100px /> <img src="images/html-5.svg" alt="html logo" width=100px /> <img src="images/css-3.svg" alt="css logo" width=100px />  
+<img src="images/react.svg" alt="react logo" width=100px /> <img src="images/redux.svg" alt="redux logo" width=100px /> <img src="images/redux-saga.svg" alt="redux-saga logo" width=100px />  
+<img src="images/github-icon.svg" alt="github logo" width=100px /> <img src="images/markdown.svg" alt="markdown logo" width=100px /> <img src="images/visual-studio-code.svg" alt="vs code logo" width=100px />  
 <!--
 **lukaszkrzeminski/lukaszkrzeminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
